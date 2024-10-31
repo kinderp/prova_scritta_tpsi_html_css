@@ -52,3 +52,12 @@ body {
     display: inline;
     padding-left: 50px;
 }
+
+.footer {
+    background-color: #FFD700;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    text-align: center;
+}
