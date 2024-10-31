@@ -68,3 +68,13 @@ body {
     float: left;
     padding-right: 10px;
 }
+
+.cv ul {
+    padding-left: 0;
+}
+
+.cv li {
+    list-style-type: none;
+    border-bottom: 1px solid #FFD700;
+    text-align: justify;
+}
