@@ -25,3 +25,11 @@ body {
 .nav a {
     text-decoration: none;
 }
+
+.header {
+    background-color: #FFD700;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-width: 0 0 1px;
+    border-color: #e7e7e7;
+}
