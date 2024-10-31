@@ -37,3 +37,9 @@ body {
 .header a {
     color: black;
 }
+
+.main {
+    width: 900px;
+    height: 900px;
+    margin: 0 auto 0 auto;
+}
