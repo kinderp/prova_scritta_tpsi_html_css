@@ -61,3 +61,10 @@ body {
     width:100%;
     text-align: center;
 }
+
+.cv img {
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding-right: 10px;
+}
