@@ -33,3 +33,7 @@ body {
     border-width: 0 0 1px;
     border-color: #e7e7e7;
 }
+
+.header a {
+    color: black;
+}
