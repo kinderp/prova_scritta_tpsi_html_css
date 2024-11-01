@@ -110,3 +110,10 @@ body {
 .courses h4 {
     margin-bottom: 1px;
 }
+
+label, input {
+    display: block;
+    width: 600px;
+    margin-top: 5px;
+    font-size: 20px;
+}
