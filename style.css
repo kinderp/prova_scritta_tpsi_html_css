@@ -155,3 +155,11 @@ form p {
     background: #000000;
     color: #ffffff;
 }
+
+.lecture {
+    background: #ffffaa;
+}
+
+.nolecture {
+    background: #aaaaaa;
+}
