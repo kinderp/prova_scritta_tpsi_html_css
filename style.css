@@ -87,3 +87,11 @@ body {
     float: left;
     padding-right: 10px;
 }
+
+.courses img {
+    float: left;
+    width: 170px;
+    height: 210px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
