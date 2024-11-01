@@ -101,3 +101,12 @@ body {
     width: 900px;
     height: 210px;
 }
+
+.courses p {
+    text-align: justify;
+    margin-top: 1px;
+}
+
+.courses h4 {
+    margin-bottom: 1px;
+}
