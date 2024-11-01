@@ -163,3 +163,7 @@ form p {
 .nolecture {
     background: #aaaaaa;
 }
+
+.hideme {
+    visibility: hidden;
+}
