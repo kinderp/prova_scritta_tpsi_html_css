@@ -117,3 +117,13 @@ label, input {
     margin-top: 5px;
     font-size: 20px;
 }
+
+input {
+    border: 1px solid #FFD700;
+}
+
+input[type="button"] {
+    height: 40px;
+    font-size: 20px;
+}
+
