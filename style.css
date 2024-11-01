@@ -142,3 +142,7 @@ form {
 form p {
     font-size: 20px;
 }
+
+.calendar tr, td{
+    border: 1px solid #aaaaaa;
+}
